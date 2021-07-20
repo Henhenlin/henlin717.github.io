@@ -1,382 +1,369 @@
 ﻿trackList = [
 	{
-		name:"Aimer-六等星の夜- for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer六等星の夜中日字幕.mp3"
+		name:"世界が終るまでは",
+		artist:"櫻木",
+		src:"music/灌籃高手  世界が終るまでは.mp3"
 	},	
 	{
-		name:"Aimer - Re:pray - for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - HDSleepless Nights  Aimer  Repray中日字幕.mp3"
-	},	
-	{
-		name:"Aimer - あなたに出会わなければ～夏雪冬花～ - for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer  Anatanideawanakereba Kasetsutouka.mp3"
-	},	
-	{
-		name:"Aimer - Brave Shine- for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer  Brave Shine.mp3"
-	},	
-	{
-		name:"Aimer - 蝶々結び- for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer 蝶々結び 野田洋次郎RADWIMPS楽曲提供プロデュース.mp3"
-	},	
-	{
-		name:"Aimer - Ref:rain - for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer RefrainMUSIC VIDEO5th albumSun DancePenny Rain20190410水2枚同時発売.mp3"
-	},	
-	{
-		name:"Aimer - STAND ALONE - for zl ",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer STANDALONEMUSIC VIDEO日本テレビ系日曜ドラマあなたの番です主題歌.mp3"
-	},	
-	{
-		name:"Aimer - 3min - for zl ",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer 3minMUSIC VIDEO 5th albumSun DancePenny Rain410同時発売.mp3"
-	},	
-	{
-		name:"周興哲-以後別做朋友",
-		artist:"周興哲 ",
-		src:"music/y2mate.com - Eric周興哲以後別做朋友 The Distance of LoveOfficial Music Video.mp3"
-	},	
-	{
-		name:"于文文-體面",
-		artist:"于文文 ",
-		src:"music/y2mate.com - 于文文體面動態歌詞版  前任3再見前任 插曲.mp3"
-	},	
-	{
-		name:"韋禮安 -如果再見",
-		artist:"韋禮安  ",
-		src:"music/y2mate.com - 韋禮安 Weibird Wei  如果再見 If We Meet Again 官方版MV  電影極樂宿舍主題曲  韓劇龍八夷我女婿的女人請回答1988片尾曲.mp3"
-	},	
-	{
-		name:"周興哲 -你，好不好？",
-		artist:"周興哲  ",
-		src:"music/y2mate.com - Eric周興哲你好不好 How Have You BeenOfficial Music Video遺憾拼圖片尾曲.mp3"
-	},	
-	{
-		name:"M2M - The Day You Went Away",
-		artist:"M2M",
-		src:"music/y2mate.com - M2M  The Day You Went Away 你離去那一天 中文字幕.mp3"
-	},	
-	{
-		name:"Leona Lewis-Bleeding Love",
-		artist:"Leona Lewis",
-		src:"music/y2mate.com - Bleeding Love蔓延的愛 Leona Lewis中文歌詞版9000s情歌.mp3"
-	},	
-	{
-		name:"Avril Lavigne - Tomorrow",
-		artist:"Avril Lavigne",
-		src:"music/y2mate.com - Avril lavigne  Tomorrow.mp3"
-	},	
-	{
-		name:"Gareth Gates - Anyone Of Us？",
-		artist:"Gareth Gates ",
-		src:"music/y2mate.com - Gareth Gates  Anyone Of Us Stupid Mistake.mp3"
-	},		
-	{
-		name:"Avril Lavigne - My Happy Ending",
-		artist:"Avril Lavigne",
-		src:"music/y2mate.com - 英繁字幕Avril Lavigne  My Happy Ending 美好結局艾薇爾經典歌曲.mp3"
-	},	
-	{
-		name:"Kelly Clarkson-Because Of You",
-		artist:"Kelly Clarkson",
-		src:"music/y2mate.com - Kelly ClarksonBecause Of You中文翻譯.mp3"
-	},	
-	{
-		name:"GReeeeN - 奇蹟",
-		artist:"GReeeeN",
-		src:"music/y2mate.com - キセキ KISEKI奇蹟  GReeeeN中文字幕翻譯MV MH M.mp3"
+		name:"Turn Down For What (feat.Lil Jon) ",
+		artist:"DJ snake",
+		src:"music/04 DJ Snake - Turn Down For What (feat.Lil Jon).mp3"
 	},
-	{
-		name:"Whiteeeen -キセキ～未来へ～",
-		artist:"Whiteeeen",
-		src:"music/y2mate.com - Whiteeeen キセキ未来へ電影青空吶喊主題曲 完整版MV 中文字幕羅馬拼音.mp3"
-	},
-	{
-		name:"miwa＆坂口健太郎 -アイオクリ把愛獻給你",
-		artist:"miwa＆坂口健太郎",
-		src:"music/y2mate.com - The STROBOSCORP アイオクリ Aiokuri  sub thai.mp3"
-	},
-	{
-		name:" MIWA - 葵海",
-		artist:"miwa",
-		src:"music/y2mate.com -  MIWA  葵海與你的第100次戀愛插曲中文字幕.mp3"
-	},
-	{
-		name:"BTS-Dynamite -for CC ",
-		artist:"BTS ",
-		src:"music/y2mate.com - BTS 방탄소년단 Dynamite Official MV.mp3"
-	},	
-	{
-		name:"Dan + Shay, Justin Bieber-10,000 Hours -for CC ",
-		artist:"Dan + Shay, Justin Bieber ",
-		src:"music/y2mate.com - Dan  Shay Justin Bieber  10000 Hours Official Music Video.mp3"
-	},	
 	{
 		name:"阿肆-熱愛105°C的你 -for CC ",
 		artist:"阿肆 ",
 		src:"music/y2mate.com - 阿肆  熱愛105C的你動態歌詞Super Idol的笑容 都沒你的甜.mp3"
-	},	
-	{
-		name:"88rising-California -for BH ",
-		artist:"88rising ",
-		src:"music/y2mate.com - Rich Brian NIKI  Warren Hue  California Official Music Video.mp3"
-	},	
-	{
-		name:"Alex Goot - Pretty Eyes ",
-		artist:"Alex Goot ",
-		src:"music/yt1s.com - Pretty Eyes    Alex Goot 中文字幕.mp3"
-	},	
-	{
-		name:"Vanessa Carlton - A Thousand Miles  ",
-		artist:"Vanessa Carlton ",
-		src:"music/yt1s.com - Vanessa Carlton  A Thousand Miles Official Video.mp3"
-	},
-	{
-		name:"Keira Knightley - Tell Me If You Wanna Go Home ",
-		artist:"Keira Knightley ",
-		src:"music/yt1s.com - Keira Knightley  Tell Me If You Wanna Go Home Begin Again Soundtrack  Interscope.mp3"
-	},
-	{
-		name:"Passenger - Let Her Go ",
-		artist:"Passenger ",
-		src:"music/yt1s.com - Passenger  Let Her Go Official Video.mp3"
-	},	
-	{
-		name:"Adam Levine - Lost Stars ",
-		artist:"Adam Levine ",
-		src:"music/yt1s.com - Adam Levine  Lost Stars from Begin Again.mp3"
-	},	
-	{
-		name:"Bleachers - I Wanna Get Better ",
-		artist:"Bleachers ",
-		src:"music/yt1s.com - Bleachers  I Wanna Get Better.mp3"
-	},
-	{
-		name:"Against The Current & ONE OK ROCK - Dreaming Alone ",
-		artist:"Against The Current & ONE OK ROCK",
-		src:"music/yt1s.com - Dreaming Alone  Against The Current feat  Taka from ONE OK ROCK 中文字幕.mp3"
-	},
-	{
-		name:"Linkin Park - In The End ",
-		artist:"Linkin Park",
-		src:"music/yt1s.com - In The End 終點  Linkin Park 聯合公園 中文歌詞.mp3"
-	},
-	{
-		name:"中島美嘉  - 僕が死のうと思ったのは ",
-		artist:"中島美嘉 ",
-		src:"music/y2mate.com - 中島美嘉  曾經我也想過一了百了  歌詞  lyric.mp3"
-	},	
-	{
-		name:"ONE OK ROCK - The Beginning",
-		artist:"ONE OK ROCK",
-		src:"music/y2mate.com - ONE OK ROCK  The Beginning Official Music Video.mp3"
-	},
-	{
-		name:"ONE OK ROCK - Clock Strikes",
-		artist:"ONE OK ROCK",
-		src:"music/y2mate.com - ONE OK ROCK  Clock Strikes Official Music Video.mp3"
-	},
-	{
-		name:"ONE OK ROCK - C.h.a.o.s.m.y.t.h.",
-		artist:"ONE OK ROCK",
-		src:"music/y2mate.com - ONE OK ROCK  Chaosmyth Official Music Video.mp3"
-	},	
-	{
-		name:"ONE OK ROCK - Heartache",
-		artist:"ONE OK ROCK",
-		src:"music/y2mate.com - ONE OK ROCK  Heartache Studio Jam Session.mp3"
+	},		
+	{		
+		name:"01. grilletto",
+		artist:". gri",
+		src:"music/01. grilletto.mp3"
+	},		
+	{		
+		name:"06 차에 타봐",
+		artist:"06 차에",
+		src:"music/06 차에 타봐.mp3"
 	},		
 	{
 		name:"米津玄師 MV「Lemon」",
 		artist:"米津玄師",
 		src:"music/y2mate.com - 米津玄師  MVLemon.mp3"
-	},			
-	{
-		name:"SPYAIR - サムライハート",
-		artist:"SPYAIR",
-		src:"music/y2mate.com - HD銀魂 Gintama  SPYAIR  サムライハートSome Like It Hot 中日字幕.mp3"
-	},	
-	{
-		name:"The Writers 寫手 - BURN ",
-		artist:"The Writers 寫手",
-		src:"music/yt1s.com - The Writers 寫手  BURN 網路影集私室主題曲.mp3"
-	},	
-	{
-		name:"G.E.M.鄧紫棋【平行世界 Parallel】",
-		artist:"鄧紫棋",
-		src:"music/y2mate.com - GEM鄧紫棋平行世界 ParallelMV 電影刺殺小說家主題曲.mp3"
 	},
 	{
-		name:" 蛋堡 Soft Lipa - 史詩",
-		artist:"蛋堡",
-		src:"music/y2mate.com - 顏社蛋堡 Soft Lipa  史詩 Official Music Video.mp3"
+		name:"神劍闖江湖",
+		artist:"劍心",
+		src:"music/heartofsword.mp3"
 	},
 	{
-		name:"P!nk - Raise Your Glass",
-		artist:"P!nk",
-		src:"music/y2mate.com - Pnk  Raise Your Glass.mp3"
+		name:"第一神拳-Under star",
+		artist:"一步",
+		src:"music/第一神拳-Under star.mp3"
 	},
 	{
-		name:"Bon Jovi - It's My Life",
-		artist:"Bon Jovi",
-		src:"music/y2mate.com - Bon Jovi  Its My Life Official Music Video.mp3"
+		name:"02 - sistar-Alone",
+		artist:"sistar",
+		src:"music/02 - sistar-Alone.mp3"
 	},
 	{
-		name:"色情塗鴉 - 悍馬騎士",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉悍馬騎士PG中字.mp3"
+		name:"02 30 SEXY",
+		artist:"rain",
+		src:"music/02 30 SEXY.mp3"
 	},
 	{
-		name:"色情塗鴉 - Melissa",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉Melissa 鋼之鍊金術師OPPG中字.mp3"
+		name:"FT Island-I hope",
+		artist:"ftisland",
+		src:"music/FT Island-I hope.mp3"
 	},
-	{
-		name:"色情塗鴉 - 鳳蝶 inBBQ",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉鳳蝶 inBBQPG中字.mp3"
-	},	
-	{
-		name:"色情塗鴉 - 悲歡歲月",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉悲歡歲月Saudade  ReLIFE7 EDPG中字.mp3"
+	{		
+		name:"霍爾的移動城堡-人生のメリーゴーランド",
+		artist:"人生のメリ",
+		src:"music/霍爾的移動城堡-人生のメリーゴーランド.mp3"
 	},		
 	{
-		name:"色情塗鴉 - 今晚,就算看不到月亮",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉今晚就算看不到月亮  BLEACH死神 主題曲PG中字.mp3"
-	},	
-	{
-		name:"色情塗鴉 - 在閃爍繁星之下",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉在閃爍繁星之下 MAGI魔奇少年OPPG中字.mp3"
-	},	
-	{
-		name:"YUI - Again",
-		artist:"YUI",
-		src:"music/yt1s.com - HD鋼之鍊金術師 Fullmetal Alchemist Brotherhood OP1  YUI  Again中日字幕.mp3"
-	},	
-	{
-		name:"The Chainsmokers & Coldplay  - Something Just Like This ",
-		artist:"The Chainsmokers & Coldplay ",
-		src:"music/yt1s.com - 拯救了整座城市卻救不了你Something Just Like This 如此而已  The Chainsmokers  Coldplay 剪輯版 蜘蛛人驚奇再起 中文字幕.mp3"
-	},	
-	{
-		name:"The Cab - Angel With A Shotgun ",
-		artist:"The Cab",
-		src:"music/yt1s.com - 歐美電影剪輯燃燒吧英雄魂Angel With A Shotgun中文字幕.mp3"
-	},	
-	{
-		name:"Ashes Remain - On My Own ",
-		artist:"Ashes Remain",
-		src:"music/yt1s.com - 歐美電影剪輯3最大的敵人是我們的內心燃燃燃 中文字幕.mp3"
-	},	
-	{
-		name:"Coldplay - Yellow  ",
-		artist:"Coldplay",
-		src:"music/yt1s.com - Coldplay  Yellow  黃色   中文字幕 Lyrics.mp3"
-	},	
-	{
-		name:"Coldplay - The Scientist  ",
-		artist:"Coldplay",
-		src:"music/yt1s.com - Coldplay  The Scientist Official Video.mp3"
-	},	
-	{
-		name:"Coldplay - A Sky Full Of Stars  ",
-		artist:"Coldplay",
-		src:"music/yt1s.com - Coldplay  A Sky Full Of Stars Official Video.mp3"
-	},	
-	{
-		name:"Coldplay - Viva La Vida  ",
-		artist:"Coldplay",
-		src:"music/yt1s.com - Coldplay  Viva La Vida Official Video.mp3"
-	},	
-	{
-		name:"The Band Perry - If I Die Young  ",
-		artist:"The Band Perry",
-		src:"music/yt1s.com - The Band Perry  If I Die Young Official Video.mp3"
-	},	
-	{
-		name:"Hawk Nelson - Sold Out  ",
-		artist:"Hawk Nelson",
-		src:"music/yt1s.com - 歐美電影剪輯5Manners Makyth Man 不知禮無以立也燃.mp3"
-	},	
-	{
-		name:"Gym Class Heroes - Stereo Hearts  ",
-		artist:"Gym Class Heroes",
-		src:"music/yt1s.com - Stereo Hearts Lyrics.mp3"
-	},	
-	{
-		name:"粉ミルク Cover - 小さな恋のうた  ",
-		artist:"粉ミルク",
-		src:"music/yt1s.com - 求婚大作戰主題曲小さな恋のうた小小戀歌 粉ミルク Cover中文字幕.mp3"
-	},	
-	{
-		name:"Alex Goot & Against The Current - Catch My Breath   ",
-		artist:"Alex Goot & Against The Current",
-		src:"music/yt1s.com - Catch My Breath Alex Goot  Against The Current Cover 中文字幕.mp3"
-	},	
-	{
-		name:"Alan Walker - Faded ",
-		artist:"Alan Walker",
-		src:"music/yt1s.com -  Faded人間迷走  Alan Walker feat Iselin Solheim 現場版中文字幕.mp3"
-	},	
-	{
-		name:"Against the Current - Something You Need Acoustic   ",
-		artist:"Against the Current ",
-		src:"music/yt1s.com - Something You Need Acoustic   Against the Current 中文字幕.mp3"
+		name:"G.Na-我會離開你就好好過吧",
+		artist:"G.na",
+		src:"music/G.Na-我會離開你就好好過吧.mp3"
+	},
+		{
+		name:"LOVE GIRL",
+		artist:"CNBLUE",
+		src:"music/CNBLUE.LOVE GIRL.mp3"
 	},
 	{
-		name:"Against the Current - Brighter    ",
-		artist:"Against the Current ",
-		src:"music/yt1s.com - Brighter   Against the Current 中文字幕.mp3"
+		name:"FT Island -severely",
+		artist:"ftisland",
+		src:"music/FT Island -severely.mp3"
 	},
 	{
-		name:"Against the Current - Outsiders     ",
-		artist:"Against the Current ",
-		src:"music/yt1s.com - Outsiders 局外人  Against The Current Lyrics Video 中文字幕.mp3"
+		name:"heartofsword",
+		artist:"swordheart",
+		src:"music/heartofsword.mp3"
 	},
 	{
-		name:"OneRepublic - Counting Stars    ",
-		artist:"OneRepublic  ",
-		src:"music/yt1s.com - OneRepublic  Counting Stars Official Music Video.mp3"
-	},	
-	{
-		name:"Sparkle - Your Name    ",
-		artist:"Sparkle  ",
-		src:"music/yt1s.com - Sparkle  Your Name AMV.mp3"
-	},	
-	{
-		name:"Taylor Swift - RED ",
-		artist:"Taylor Swift  ",
-		src:"music/yt1s.com - Taylor Swift  Red 焰紅 lyrics 中英歌詞 中文翻譯.mp3"
-	},	
-	{
-		name:"Alex Goot & Friends - One More Night ",
-		artist:"Alex Goot & Friends ",
-		src:"music/yt1s.com - One More Night    Alex Goot  Friends cover 中文字幕.mp3"
-	},	
-	{
-		name:"Taylor Swift - Mean ",
-		artist:"Taylor Swift ",
-		src:"music/yt1s.com - Taylor SwiftMean 中英字幕 反欺凌歌曲 ACM Award 表演.mp3"
+		name:"Careless Whisper",
+		artist:"George Michael",
+		src:"music/George Michael-Careless Whisper.mp3"
+	},
+		{
+		name:"a little pain",
+		artist:"中島美嘉",
+		src:"music/中島美嘉-a little pain.mp3"
 	},
 	{
-		name:"Alex Goot - Lightning ",
-		artist:"Alex Goot ",
-		src:"music/yt1s.com - Lightning    Alex Goot 中文字幕.mp3"
+		name:"夜照亮了夜",
+		artist:"萬芳",
+		src:"music/萬芳   夜照亮了夜.mp3"
+	},
+		{		
+		name:"Lady Antebellum--Need You Now",
+		artist:"eed Y",
+		src:"music/Lady Antebellum--Need You Now.mp3"
 	},	
-	{
-		name:"Alex Goot - Apologize ",
-		artist:"Alex Goot ",
-		src:"music/yt1s.com - Apologize   Alex Goot cover 中文字幕.mp3"
+{		
+		name:"Melody Gardot-Lisboa",
+		artist:"rdot-",
+		src:"music/Melody Gardot-Lisboa.mp3"
 	},	
+{		
+		name:"03 LA SONG",
+		artist:"03 LA",
+		src:"music/03 LA SONG.mp3"
+	},	
+{		
+		name:"03.Dido Feat. Kendrick Lamar-Let Us Move On",
+		artist:" Us M",
+		src:"music/03.Dido Feat. Kendrick Lamar-Let Us Move On.mp3"
+	},	
+{		
+		name:"05 Flossy (feat. Kay)",
+		artist:"(feat",
+		src:"music/05 Flossy (feat. Kay).mp3"
+	},	
+	{		
+		name:"06-誠實地想你",
+		artist:"06-誠實",
+		src:"music/06-誠實地想你.mp3"
+	},	
+{		
+		name:"07 Talking To The Moon",
+		artist:"To Th",
+		src:"music/07 Talking To The Moon.mp3"
+	},	
+{		
+		name:"07-ludovico_einaudi--lorigine_nascosta-oma",
+		artist:"ascos",
+		src:"music/07-ludovico_einaudi--lorigine_nascosta-oma.mp3"
+	},	
+{		
+		name:"01-ludovico_einaudi--fly-oma",
+		artist:"di--f",
+		src:"music/01-ludovico_einaudi--fly-oma.mp3"
+	},	
+{		
+		name:"13 Melt",
+		artist:"13 Me",
+		src:"music/13 Melt.mp3"
+	},	
+	{		
+		name:"15 Like a G6 (feat. The Cataracs & Dev",
+		artist:"aracs",
+		src:"music/15 Like a G6 (feat. The Cataracs & Dev.mp3"
+	},	
+{		
+		name:"56 Tinshe - 2 On (feat. Schoolboy Q)",
+		artist:"chool",
+		src:"music/56 Tinshe - 2 On (feat. Schoolboy Q).mp3"
+	},	
+{		
+		name:"Big Bang - Haru Haru",
+		artist:"- Har",
+		src:"music/Big Bang - Haru Haru.mp3"
+	},	
+{		
+		name:"blacktear",
+		artist:"black",
+		src:"music/blacktear.mp3"
+	},	
+{		
+		name:"Bury -Pay money To my Pain",
+		artist:" To m",
+		src:"music/Bury -Pay money To my Pain.mp3"
+	},	
+	{		
+		name:"Far east movement-Lowridin ",
+		artist:"t-Low",
+		src:"music/Far east movement-Lowridin .mp3"
+	},	
+{		
+		name:"CNBLUE.사랑은 비를 타고",
+		artist:"E.사랑은",
+		src:"music/CNBLUE.사랑은 비를 타고.mp3"
+	},	
+{		
+		name:"CNBLUE.직감",
+		artist:"CNBLU",
+		src:"music/CNBLUE.직감.mp3"
+	},	
+{		
+		name:"hello hello-FTISLAND",
+		artist:"lo-FT",
+		src:"music/hello hello-FTISLAND.mp3"
+	},
+	{		
+		name:"Natalie Cole-Miss You Like Crazy",
+		artist:" Like",
+		src:"music/Natalie Cole-Miss You Like Crazy.mp3"
+	},	
+{		
+		name:"Rising Hope",
+		artist:"Risin",
+		src:"music/Rising Hope.mp3"
+	},	
+{		
+		name:"sorry seems to be the hardest word",
+		artist:"ardes",
+		src:"music/sorry seems to be the hardest word.mp3"
+	},	
+{		
+		name:"X-Japan - Rusty Nail",
+		artist:" Rust",
+		src:"music/X-Japan - Rusty Nail.mp3"
+	},	
+{		
+		name:"X-Japan - X",
+		artist:"X-Jap",
+		src:"music/X-Japan - X.mp3"
+	},	
+	{		
+		name:"シルシ",
+		artist:"シルシ.m",
+		src:"music/シルシ.mp3"
+	},	
+{		
+		name:"上戶彩-PERSONAL",
+		artist:"戶彩-PE",
+		src:"music/上戶彩-PERSONAL.mp3"
+	},	
+{		
+		name:"上戶彩-淚的彩虹",
+		artist:"上戶彩-淚",
+		src:"music/上戶彩-淚的彩虹.mp3"
+	},	
+{		
+		name:"反町隆史-forever",
+		artist:"町隆史-f",
+		src:"music/反町隆史-forever.mp3"
+	},	
+{		
+		name:"太陽-I need a girl",
+		artist:"need ",
+		src:"music/太陽-I need a girl.mp3"
+	},	
+	{		
+		name:"真鑽情歌-CD01-15-肯尼吉Kenny G - Songbird鳴鳥(薩克斯風演奏)",
+		artist:"d鳴鳥(薩",
+		src:"music/真鑽情歌-CD01-15-肯尼吉Kenny G - Songbird鳴鳥(薩克斯風演奏).mp3"
+	},	
+{		
+		name:"真鑽情歌-CD02-03-菲爾柯林斯Phil Collins -Against All Odds再看我一眼( 電影「再看我一眼」主題曲 )",
+		artist:"再看我一眼",
+		src:"music/真鑽情歌-CD02-03-菲爾柯林斯Phil Collins -Against All Odds再看我一眼( 電影「再看我一眼」主題曲 ).mp3"
+	},	
+{		
+		name:"真鑽情歌-CD02-04-芝加哥合唱團Chicago - Hard To Say I'm Sorry難以開口說再見",
+		artist:"orry難",
+		src:"music/真鑽情歌-CD02-04-芝加哥合唱團Chicago - Hard To Say I'm Sorry難以開口說再見.mp3"
+	},	
+{		
+		name:"真鑽情歌-CD06-09-大西洋之星合唱團Atlantic Starr - Masterpiece愛的傑作",
+		artist:"erpie",
+		src:"music/真鑽情歌-CD06-09-大西洋之星合唱團Atlantic Starr - Masterpiece愛的傑作.mp3"
+	},	
+{		
+		name:"宇多田光-FirstLove",
+		artist:"光-Fir",
+		src:"music/宇多田光-FirstLove.mp3"
+	},	
+	{		
+		name:"周華健    我們不哭",
+		artist:"周華健  ",
+		src:"music/周華健    我們不哭.mp3"
+	},	
+{		
+		name:"周華健  有沒有一首歌會讓你想起我",
+		artist:"沒有一首歌",
+		src:"music/周華健  有沒有一首歌會讓你想起我.mp3"
+	},	
+{		
+		name:"葉啟田-愛拼才會贏",
+		artist:"葉啟田-愛",
+		src:"music/葉啟田-愛拼才會贏.mp3"
+	},	
+{		
+		name:"蔡依林~天空",
+		artist:"蔡依林~天",
+		src:"music/蔡依林~天空.mp3"
+	},	
+{		
+		name:"蔡依林-假裝.Mp3",
+		artist:"蔡依林-假",
+		src:"music/蔡依林-假裝.Mp3"
+	},	
+	{		
+		name:"蔡健雅-Letting Go",
+		artist:"-Lett",
+		src:"music/蔡健雅-Letting Go.mp3"
+	},	
+{		
+		name:"蕭敬騰-我不會愛",
+		artist:"蕭敬騰-我",
+		src:"music/蕭敬騰-我不會愛.mp3"
+	},	
+{		
+		name:"衛蘭- morning",
+		artist:"衛蘭- m",
+		src:"music/衛蘭- morning.mp3"
+	},	
+{		
+		name:"惡作劇之吻 遇到",
+		artist:"惡作劇之吻",
+		src:"music/惡作劇之吻 遇到.mp3"
+	},	
+{		
+		name:"楊丞琳-理想情人",
+		artist:"楊丞琳-理",
+		src:"music/楊丞琳-理想情人.mp3"
+	},	
+	{		
+		name:"張學友-一千個傷心的理由",
+		artist:"學友-一千",
+		src:"music/張學友-一千個傷心的理由.mp3"
+	},	
+{		
+		name:"張衛健   你愛我像誰",
+		artist:"張衛健  ",
+		src:"music/張衛健   你愛我像誰.mp3"
+	},	
+{		
+		name:"動力火車~終於明白",
+		artist:"動力火車~",
+		src:"music/動力火車~終於明白.mp3"
+	},	
+{		
+		name:"惡作劇之吻 Say U Love Me",
+		artist:"y U L",
+		src:"music/惡作劇之吻 Say U Love Me.mp3"
+	},	
+{		
+		name:"陳昇-把悲傷留給自己",
+		artist:"陳昇-把悲",
+		src:"music/陳昇-把悲傷留給自己.mp3"
+	},	
+	{		
+		name:"島谷ひとみ-雨の日には雨の中を 風の日には 風の中を",
+		artist:" 風の日に",
+		src:"music/島谷ひとみ-雨の日には雨の中を 風の日には 風の中を.mp3"
+	},	
+{		
+		name:"島谷ひとみ-やさしいキスの見つけ方",
+		artist:"やさしいキ",
+		src:"music/島谷ひとみ-やさしいキスの見つけ方.mp3"
+	},	
+{		
+		name:"島谷ひとみ-早春賦",
+		artist:"島谷ひとみ",
+		src:"music/島谷ひとみ-早春賦.mp3"
+	},	
+{		
+		name:"島谷ひとみ-赤とんぼ",
+		artist:"島谷ひとみ",
+		src:"music/島谷ひとみ-赤とんぼ.mp3"
+	},	
+{		
+		name:"島谷ひとみ-簡単に言えたなら",
+		artist:"とみ-簡単",
+		src:"music/島谷ひとみ-簡単に言えたなら.mp3"
+	},	
+	
+
 ];
